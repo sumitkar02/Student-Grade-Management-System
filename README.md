@@ -1,4 +1,9 @@
-Student Grade Management System – C# Console Application 🎓
+Student Grade Management System – C# Console Application 🎓  
+
+
+This is a beginner-level project completed as part of my learning journey. This project is for learning purposes only. Please do not copy without attribution.
+
+
 📋 Project Overview
 This is a simple console-based Student Grade Management System built using C#. The application allows users to add student records, assign grades, calculate average grades, and display all student data efficiently.
 
